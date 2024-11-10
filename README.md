@@ -1,4 +1,4 @@
-# Multi-Tool - The Ultimate Nework Tool 🧑‍💻💣
+# Multi-Tool - The Ultimate Multi Tool 🧑‍💻💣
 
 Welcome to **Multi-Tool** repository, a collection of various hacking tools designed to look and feel like the work of a true hacker. This tool includes IP reveal, IP lookup, ping test, and still adding more! 🚀
 
