@@ -16,7 +16,7 @@ git clone https://github.com/your-username/Multi-Tool.git
 cd Multi-Tool
 
 🔥 Screenshot
-![image](https://github.com/user-attachments/assets/70bee486-994d-40ad-bd3c-03b8bd282ef1)
+[image](https://github.com/user-attachments/assets/70bee486-994d-40ad-bd3c-03b8bd282ef1)
 
 🔒 Disclaimer
 This repository is for educational purposes only. Any usage of these tools should be legal and ethical.
